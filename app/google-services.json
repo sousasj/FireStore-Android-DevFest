@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047031627275",
+    "firebase_url": "https://devfest-firestore.firebaseio.com",
+    "project_id": "devfest-firestore",
+    "storage_bucket": "devfest-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047031627275:android:035e9677858eaeb7",
+        "android_client_info": {
+          "package_name": "sousajunior.devfest.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047031627275-r846uoojgj3tbtqulb5ea4f9hr7ie1p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOstT1E4iNRW2zQWWMIqdstGiUui8_XA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireStore</string>
+    <string name="comentarios">Deixe o seu comentario</string>
+    <string name="button">Publicar</string>
+</resources>
